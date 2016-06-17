@@ -4,90 +4,90 @@
     "name": "Player",
     "slots": [
       {
-        "name": "craft result",
-        "index": 0
+        "index": 0,
+        "name": "craft result"
       },
       {
-        "name": "craft grid",
         "index": 1,
+        "name": "craft grid",
         "size": 4
       },
       {
-        "name": "armor",
         "index": 5,
+        "name": "armor",
         "size": 4
       },
       {
-        "name": "helmet",
-        "index": 5
+        "index": 5,
+        "name": "helmet"
       },
       {
-        "name": "chestplate",
-        "index": 6
+        "index": 6,
+        "name": "chestplate"
       },
       {
-        "name": "leggings",
-        "index": 7
+        "index": 7,
+        "name": "leggings"
       },
       {
-        "name": "boots",
-        "index": 8
+        "index": 8,
+        "name": "boots"
       }
     ]
   },
   {
     "id": "EntityHorse",
     "name": "Horse",
-    "slots": [
-      {
-        "name": "saddle",
-        "index": 0
-      },
-      {
-        "name": "armor",
-        "index": 1
-      },
-      {
-        "name": "storage",
-        "index": 2,
-        "size": 15
-      }
-    ],
     "openedWith": [
       {
-        "type": "entity",
-        "id": 100
+        "id": 100,
+        "type": "entity"
+      }
+    ],
+    "slots": [
+      {
+        "index": 0,
+        "name": "saddle"
+      },
+      {
+        "index": 1,
+        "name": "armor"
+      },
+      {
+        "index": 2,
+        "name": "storage",
+        "size": 15
       }
     ]
   },
   {
     "id": "minecraft:anvil",
     "name": "Anvil",
-    "slots": [
-      {
-        "name": "tool",
-        "index": 0
-      },
-      {
-        "name": "combined",
-        "index": 1
-      },
-      {
-        "name": "result",
-        "index": 2
-      }
-    ],
     "properties": [
       "repair cost"
+    ],
+    "slots": [
+      {
+        "index": 0,
+        "name": "tool"
+      },
+      {
+        "index": 1,
+        "name": "combined"
+      },
+      {
+        "index": 2,
+        "name": "result"
+      }
     ]
   },
   {
     "id": "minecraft:beacon",
     "name": "Beacon",
-    "slots": [
+    "openedWith": [
       {
-        "name": "input",
-        "index": 0
+        "id": 138,
+        "type": "block"
       }
     ],
     "properties": [
@@ -95,34 +95,34 @@
       "effect 1",
       "effect 2"
     ],
-    "openedWith": [
+    "slots": [
       {
-        "type": "block",
-        "id": 138
+        "index": 0,
+        "name": "input"
       }
     ]
   },
   {
     "id": "minecraft:brewing_stand",
     "name": "Brewing Stand",
-    "slots": [
+    "openedWith": [
       {
-        "name": "ingredient",
-        "index": 0
-      },
-      {
-        "name": "result",
-        "index": 1,
-        "size": 3
+        "id": 117,
+        "type": "block"
       }
     ],
     "properties": [
       "brew time"
     ],
-    "openedWith": [
+    "slots": [
       {
-        "type": "block",
-        "id": 117
+        "index": 0,
+        "name": "ingredient"
+      },
+      {
+        "index": 1,
+        "name": "result",
+        "size": 3
       }
     ]
   },
@@ -139,12 +139,12 @@
     "name": "Workbench",
     "slots": [
       {
-        "name": "craft result",
-        "index": 0
+        "index": 0,
+        "name": "craft result"
       },
       {
-        "name": "craft grid",
         "index": 1,
+        "name": "craft grid",
         "size": 9
       }
     ]
@@ -160,16 +160,6 @@
   {
     "id": "minecraft:enchanting_table",
     "name": "Enchantment Table",
-    "slots": [
-      {
-        "name": "enchanted",
-        "index": 0
-      },
-      {
-        "name": "lapis",
-        "index": 1
-      }
-    ],
     "properties": [
       "xp 1",
       "xp 2",
@@ -178,30 +168,40 @@
       "tooltip 1",
       "tooltip 2",
       "tooltip 3"
+    ],
+    "slots": [
+      {
+        "index": 0,
+        "name": "enchanted"
+      },
+      {
+        "index": 1,
+        "name": "lapis"
+      }
     ]
   },
   {
     "id": "minecraft:furnace",
     "name": "Furnace",
-    "slots": [
-      {
-        "name": "smelted",
-        "index": 0
-      },
-      {
-        "name": "fuel",
-        "index": 1
-      },
-      {
-        "name": "result",
-        "index": 2
-      }
-    ],
     "properties": [
       "fuel",
       "fuel max",
       "progress",
       "progress max"
+    ],
+    "slots": [
+      {
+        "index": 0,
+        "name": "smelted"
+      },
+      {
+        "index": 1,
+        "name": "fuel"
+      },
+      {
+        "index": 2,
+        "name": "result"
+      }
     ]
   },
   {
@@ -213,16 +213,16 @@
     "name": "NPC Trade",
     "slots": [
       {
-        "name": "give 1",
-        "index": 0
+        "index": 0,
+        "name": "give 1"
       },
       {
-        "name": "give 2",
-        "index": 1
+        "index": 1,
+        "name": "give 2"
       },
       {
-        "name": "take",
-        "index": 2
+        "index": 2,
+        "name": "take"
       }
     ]
   }
