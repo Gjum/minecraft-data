@@ -281,6 +281,7 @@
     "1.12": {
       "blocks": "pc/1.12",
       "biomes": "pc/1.12",
+      "blockCollisionShapes": "pc/1.12",
       "effects": "pc/1.12",
       "enchantments": "pc/1.12",
       "items": "pc/1.12",
@@ -296,6 +297,7 @@
     "1.12.1": {
       "blocks": "pc/1.12",
       "biomes": "pc/1.12",
+      "blockCollisionShapes": "pc/1.12",
       "effects": "pc/1.12",
       "enchantments": "pc/1.12",
       "items": "pc/1.12",
@@ -311,6 +313,7 @@
     "1.12.2": {
       "blocks": "pc/1.12",
       "biomes": "pc/1.12",
+      "blockCollisionShapes": "pc/1.12",
       "effects": "pc/1.12",
       "enchantments": "pc/1.12",
       "items": "pc/1.12",
@@ -326,6 +329,7 @@
     "17w50a": {
       "blocks": "pc/1.12",
       "biomes": "pc/1.12",
+      "blockCollisionShapes": "pc/1.12",
       "effects": "pc/1.12",
       "enchantments": "pc/1.12",
       "items": "pc/1.12",
@@ -415,6 +419,7 @@
     },
     "1.14": {
       "biomes": "pc/1.14",
+      "blockCollisionShapes": "pc/1.14",
       "items": "pc/1.14",
       "recipes": "pc/1.14",
       "entities": "pc/1.14",
@@ -424,6 +429,7 @@
     },
     "1.14.1": {
       "biomes": "pc/1.14",
+      "blockCollisionShapes": "pc/1.14",
       "items": "pc/1.14",
       "recipes": "pc/1.14",
       "entities": "pc/1.14",
@@ -433,6 +439,7 @@
     },
     "1.14.3": {
       "biomes": "pc/1.14",
+      "blockCollisionShapes": "pc/1.14",
       "items": "pc/1.14",
       "recipes": "pc/1.14",
       "entities": "pc/1.14",
@@ -442,6 +449,7 @@
     },
     "1.14.4": {
       "biomes": "pc/1.14",
+      "blockCollisionShapes": "pc/1.14",
       "items": "pc/1.14",
       "recipes": "pc/1.14",
       "entities": "pc/1.14",
@@ -450,14 +458,17 @@
       "version": "pc/1.14.4"
     },
     "1.15": {
+      "blockCollisionShapes": "pc/1.15",
       "protocol": "pc/1.15",
       "version": "pc/1.15"
     },
     "1.15.1": {
+      "blockCollisionShapes": "pc/1.15",
       "protocol": "pc/1.15.1",
       "version": "pc/1.15.1"
     },
     "1.15.2": {
+      "blockCollisionShapes": "pc/1.15",
       "protocol": "pc/1.15.2",
       "version": "pc/1.15.2"
     },
