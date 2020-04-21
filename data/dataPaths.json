@@ -1,11 +1,13 @@
 {
   "pc": {
     "0.30c": {
+      "blocksAreItems": true,
       "blocks": "pc/0.30c",
       "protocol": "pc/0.30c",
       "version": "pc/0.30c"
     },
     "1.7": {
+      "blocksAreItems":  true,
       "blocks": "pc/1.7",
       "biomes": "pc/1.7",
       "enchantments": "pc/1.7",
@@ -21,6 +23,7 @@
       "language":"pc/1.7"
     },
     "1.8": {
+      "blocksAreItems":  true,
       "blocks": "pc/1.8",
       "biomes": "pc/1.8",
       "enchantments": "pc/1.8",
@@ -36,6 +39,7 @@
       "language":"pc/1.8"
     },
     "15w40b": {
+      "blocksAreItems":  true,
       "blocks": "pc/1.9",
       "biomes": "pc/1.9",
       "effects": "pc/1.9",
@@ -51,6 +55,7 @@
       "language":"pc/1.9"
     },
     "1.9": {
+      "blocksAreItems":  true,
       "blocks": "pc/1.9",
       "biomes": "pc/1.9",
       "effects": "pc/1.9",
@@ -66,6 +71,7 @@
       "language":"pc/1.9"
     },
     "1.9.1-pre2": {
+      "blocksAreItems":  true,
       "blocks": "pc/1.9",
       "biomes": "pc/1.9",
       "effects": "pc/1.9",
@@ -81,6 +87,7 @@
       "language":"pc/1.9"
     },
     "1.9.2": {
+      "blocksAreItems":  true,
       "blocks": "pc/1.9",
       "biomes": "pc/1.9",
       "effects": "pc/1.9",
@@ -97,6 +104,7 @@
       "language":"pc/1.9"
     },
     "1.9.4": {
+      "blocksAreItems":  true,
       "blocks": "pc/1.9",
       "biomes": "pc/1.9",
       "effects": "pc/1.9",
@@ -112,6 +120,7 @@
       "language":"pc/1.9"
     },
     "16w20a": {
+      "blocksAreItems":  true,
       "blocks": "pc/1.9",
       "biomes": "pc/1.9",
       "effects": "pc/1.9",
@@ -127,6 +136,7 @@
       "language":"pc/1.9"
     },
     "1.10-pre1": {
+      "blocksAreItems":  true,
       "blocks": "pc/1.9",
       "biomes": "pc/1.9",
       "effects": "pc/1.9",
@@ -142,6 +152,7 @@
       "language":"pc/1.9"
     },
     "1.10": {
+      "blocksAreItems":  true,
       "blocks": "pc/1.10",
       "biomes": "pc/1.10",
       "effects": "pc/1.10",
@@ -157,6 +168,7 @@
       "language":"pc/1.10"
     },
     "1.10.1": {
+      "blocksAreItems":  true,
       "blocks": "pc/1.10",
       "biomes": "pc/1.10",
       "effects": "pc/1.10",
@@ -172,6 +184,7 @@
       "language":"pc/1.10"
     },
     "1.10.2": {
+      "blocksAreItems":  true,
       "blocks": "pc/1.10",
       "biomes": "pc/1.10",
       "effects": "pc/1.10",
@@ -187,6 +200,7 @@
       "language":"pc/1.10"
     },
     "16w35a": {
+      "blocksAreItems":  true,
       "blocks": "pc/1.10",
       "biomes": "pc/1.10",
       "effects": "pc/1.10",
@@ -202,6 +216,7 @@
       "language":"pc/1.10"
     },
     "1.11": {
+      "blocksAreItems":  true,
       "blocks": "pc/1.11",
       "biomes": "pc/1.11",
       "effects": "pc/1.11",
@@ -218,6 +233,7 @@
       "language":"pc/1.11"
     },
     "1.11.2": {
+      "blocksAreItems":  true,
       "blocks": "pc/1.11",
       "biomes": "pc/1.11",
       "effects": "pc/1.11",
@@ -234,6 +250,7 @@
       "language":"pc/1.11"
     },
     "17w15a": {
+      "blocksAreItems":  true,
       "blocks": "pc/1.11",
       "biomes": "pc/1.11",
       "effects": "pc/1.11",
@@ -249,6 +266,7 @@
       "language":"pc/1.11"
     },
     "17w18b": {
+      "blocksAreItems":  true,
       "blocks": "pc/1.11",
       "biomes": "pc/1.11",
       "effects": "pc/1.11",
@@ -264,6 +282,7 @@
       "language":"pc/1.11"
     },
     "1.12-pre4": {
+      "blocksAreItems":  true,
       "blocks": "pc/1.11",
       "biomes": "pc/1.11",
       "effects": "pc/1.11",
@@ -279,6 +298,7 @@
       "language":"pc/1.11"
     },
     "1.12": {
+      "blocksAreItems":  true,
       "blocks": "pc/1.12",
       "biomes": "pc/1.12",
       "blockCollisionShapes": "pc/1.12",
@@ -295,6 +315,7 @@
       "language":"pc/1.12"
     },
     "1.12.1": {
+      "blocksAreItems":  true,
       "blocks": "pc/1.12",
       "biomes": "pc/1.12",
       "blockCollisionShapes": "pc/1.12",
@@ -311,6 +332,7 @@
       "language":"pc/1.12"
     },
     "1.12.2": {
+      "blocksAreItems":  true,
       "blocks": "pc/1.12",
       "biomes": "pc/1.12",
       "blockCollisionShapes": "pc/1.12",
@@ -327,6 +349,7 @@
       "language":"pc/1.12"
     },
     "17w50a": {
+      "blocksAreItems":  true,
       "blocks": "pc/1.12",
       "biomes": "pc/1.12",
       "blockCollisionShapes": "pc/1.12",
