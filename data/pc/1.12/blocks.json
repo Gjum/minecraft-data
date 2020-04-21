@@ -4719,7 +4719,27 @@
       },
       {
         "metadata": 8,
-        "displayName": "Top Half of any Large Plant; low three bits 0x7 are derived from the block below."
+        "displayName": "Sunflower (Top Half)"
+      },
+      {
+        "metadata": 9,
+        "displayName": "Lilac (Top Half)"
+      },
+      {
+        "metadata": 10,
+        "displayName": "Double Tallgrass (Top Half)"
+      },
+      {
+        "metadata": 11,
+        "displayName": "Large Fern (Top Half)"
+      },
+      {
+        "metadata": 12,
+        "displayName": "Rose Bush (Top Half)"
+      },
+      {
+        "metadata": 13,
+        "displayName": "Peony (Top Half)"
       }
     ],
     "drops": [
@@ -5790,7 +5810,7 @@
   {
     "id": 227,
     "displayName": "Light Gray Shulker Box",
-    "name": "light_gray_shulker_box",
+    "name": "silver_shulker_box",
     "hardness": 6,
     "stackSize": 1,
     "diggable": true,
@@ -6126,7 +6146,7 @@
   {
     "id": 243,
     "displayName": "Light Gray Glazed Terracotta",
-    "name": "light_gray_glazed_terracotta",
+    "name": "silver_glazed_terracotta",
     "hardness": 1.4,
     "stackSize": 64,
     "diggable": true,
